@@ -1,9 +1,9 @@
-title: John Smith
+title: Stanislaus Stadlmann
 description: My Personal Blog
-author: John Smith
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+author: Stanislaus Stadlmann
+logo: /hcz-jekyll-blog/assets/bear_logo.png
+github: https://github.com/Stan125
+about: Student, M.Sc. Applied Statistics
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 urls:
@@ -20,25 +20,22 @@ urls:
     - text: Resume
       url: '#'
       icon: fa-graduation-cap
-    - text: Github
-      url: https://github.com/ashutosh2k12
-      icon: fa-github
     - text: XML Feed
       url: /feed.xml
       icon: fa-feed
       target: _blank
       
 social:
-    - icon: fa-facebook
-      link: '#'
-    - icon: fa-skype
-      link: '#'
+    - icon: fa-github
+      link: https://github.com/Stan125
     - icon: fa-twitter
-      link: '#'
+      link: 'https://twitter.com/stadlmann_'
     - icon: fa-linkedin
-      link: '#'
-    - icon: fa-stack-exchange
-      link: '#'
+      link: 'https://de.linkedin.com/in/stanislaus-stadlmann-37779692'
+    - icon: fa-stack-overflow
+      link: 'http://stackoverflow.com/users/5052121/stan125'
+    - icon: fa-xing
+      link: https://www.xing.com/profile/Stanislaus_Stadlmann
 
 share:
   twitter_username: \#
