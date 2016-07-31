@@ -2,7 +2,7 @@
 layout: post
 title:  "GREA: The RStudio Add-In to read ALL the data into R!"
 date:   2016-07-17 18:00:00
-categories: R, RStudio
+categories: [R, RStudio]
 ---
 
 [![GREA](https://github.com/Stan125/GREA/raw/master/logo.png)](https://github.com/Stan125/GREA/raw/master/logo.png)
