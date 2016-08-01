@@ -5,7 +5,7 @@ date:   2016-07-17 18:00:00
 categories: [R, RStudio]
 ---
 
-[![GREA](https://github.com/Stan125/GREA/raw/master/logo.png)](https://github.com/Stan125/GREA/raw/master/logo.png)
+[![GREA](https://github.com/Stan125/GREA/raw/master/images/logo.png)](https://github.com/Stan125/GREA/raw/master/images/logo.png)
 
 Have you also been overburdened by the vast selection of R packages to read different filetypes into R? Do you sometimes just want to get that .csv file up and running in your environment, but forgot about all those endless `read.table()` options?
 
