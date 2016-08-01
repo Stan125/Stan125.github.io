@@ -31,13 +31,13 @@ Calling the Add-In is simple: just click on the Add-In Tab and select 'Gotta Rea
 
 Once the Add-In is started up, press the "Select File" button to select a file on your computer. Then, type in a name for your desired dataset. Once the file is loaded into the Add-In, you may see additional options for parsing the file on the right. Ignore those for now and head right to the "previews" tab.
 
-[![Step 2](https://github.com/Stan125/GREA/blob/master/step1.png?raw=true)](https://github.com/Stan125/GREA/blob/master/step1.png?raw=true)
+[![Step 2](https://github.com/Stan125/GREA/raw/master/images/step2.png)](https://github.com/Stan125/GREA/raw/master/images/step2.png)
 
 #### 3. Looking at the preview
 
 The previews tab shows a preview of what your dataframe would look like if you parsed it with the current settings. If something looks odd (e.g. your column names fell into the first row of the dataset), head back to the first tab. We can see that in our case, the column and decimal separators are wrongly specified. If everything is right, still head back to the first tab. 
 
-[![Step 3](https://github.com/Stan125/GREA/blob/master/step2.png?raw=true)](https://github.com/Stan125/GREA/blob/master/step2.png?raw=true)
+[![Step 3](https://github.com/Stan125/GREA/raw/master/images/step1.png)](https://github.com/Stan125/GREA/raw/master/images/step1.png)
 
 #### 4. Looking at the preview
 
