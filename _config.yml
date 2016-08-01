@@ -32,10 +32,10 @@ social:
       link: 'https://twitter.com/stadlmann_'
     - icon: fa-linkedin
       link: 'https://de.linkedin.com/in/stanislaus-stadlmann-37779692'
-    - icon: fa-stack-overflow
-      link: 'http://stackoverflow.com/users/5052121/stan125'
     - icon: fa-xing
       link: https://www.xing.com/profile/Stanislaus_Stadlmann
+    - icon: fa-envelope-o
+      link: mailto:stanislaus@stadlmann.com
 
 share:
   twitter_username: \#
