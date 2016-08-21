@@ -7,18 +7,18 @@ about: Student, M.Sc. Appl. Statistics
 disqus_shortname: stan125-github-io
 google_analytics: UA-72862926-1
 urls:
-    - text: Home
+    - text: The Blog
       url: /
       icon: fa-home
       layout: post
-    - text: About
+    - text: About Me
       url: /about/
       icon: fa-comments
     - text: Projects
       url: /projects/
       icon: fa-desktop
-    - text: Resume
-      url: '#'
+    - text: Resumé
+      url: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Stan125/CV/master/english/CV_english.pdf
       icon: fa-graduation-cap
     - text: XML Feed
       url: /feed.xml
