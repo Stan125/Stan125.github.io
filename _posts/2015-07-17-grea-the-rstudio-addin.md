@@ -42,7 +42,7 @@ The previews tab shows a preview of what your dataframe would look like if you p
 
 <p align="center">
 <img src="https://github.com/Stan125/GREA/raw/master/images/step1.png" width="400" height="297" />
-<p>
+</p>
 
 #### 4. Adjusting stuff
 
@@ -50,7 +50,7 @@ If the preview of your dataframe looked off, you now have the chance to adjust s
 
 <p align="center">
 <img src="https://github.com/Stan125/GREA/raw/master/images/step3.png" width="550" height="97" />
-<p>
+</p>
 
 ### Remarks
 
