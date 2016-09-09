@@ -35,6 +35,7 @@ Once the Add-In is started up, press the "Select File" button to select a file o
 <img src="https://github.com/Stan125/GREA/raw/master/images/step2.png" width="400" height="300" />
 <p>
 
+
 #### 3. Looking at the preview
 
 The previews tab shows a preview of what your dataframe would look like if you parsed it with the current settings. If something looks odd (e.g. your column names fell into the first row of the dataset), head back to the first tab. We can see that in our case, the column and decimal separators are wrongly specified. If everything is right, still head back to the first tab. 
