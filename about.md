@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Me
+Hi! I'm Stani, an M.Sc. Applied Statistics student at the University of Göttingen in my final year. I love the statistical programming language R and it's numerous extensions (shiny, markdown). In the field of statistics, I am interested in regression models, most notably GLM's, GAM's and econometric/time series models. Another passion of mine is teaching: I frequently give R and statistics tutorials during the semester.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Because statistics can be head-aching at times, I play Lacrosse and like to travel a lot. I speak german, english y un poco de español. 
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to get in touch with me, write me an e-mail. I am always open for some cool projects.
