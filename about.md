@@ -8,4 +8,4 @@ Hi! I'm Stani, an M.Sc. Applied Statistics student at the University of Götting
 
 Because statistics can be head-aching at times, I play Lacrosse and like to travel a lot. I speak german, english y un poco de español. 
 
-If you want to get in touch with me, write me an e-mail. I am always open for some cool projects.
+If you want to get in touch with me, write me an e-mail. I am always open for some cool projects!
