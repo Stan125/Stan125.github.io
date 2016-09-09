@@ -24,7 +24,6 @@ urls:
       url: /feed.xml
       icon: fa-feed
       target: _blank
-    - url: /google7e86068a05b9cc1b.html
       
 social:
     - icon: fa-github
