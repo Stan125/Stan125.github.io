@@ -33,7 +33,7 @@ Once the Add-In is started up, press the "Select File" button to select a file o
 
 <p align="center">
 <img src="https://github.com/Stan125/GREA/raw/master/images/step2.png" width="400" height="300" />
-<p>
+</p>
 
 
 #### 3. Looking at the preview
